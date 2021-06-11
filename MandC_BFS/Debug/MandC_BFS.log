@@ -1,0 +1,4 @@
+﻿  MandC_BFS.cpp
+C:\Users\whook\Google Drive\School Stuff\Spring Semester 2021\CSC 540\Assingment _1\MandC_BFS\MandC_BFS.cpp(168,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\whook\Google Drive\School Stuff\Spring Semester 2021\CSC 540\Assingment _1\MandC_BFS\MandC_BFS.cpp(188,24): warning C4018: '<': signed/unsigned mismatch
+  MandC_BFS.vcxproj -> C:\Users\whook\Google Drive\School Stuff\Spring Semester 2021\CSC 540\Assingment _1\MandC_BFS\Debug\MandC_BFS.exe
